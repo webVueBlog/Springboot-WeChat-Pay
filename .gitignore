@@ -45,4 +45,3 @@ mvnw.cmd
 
 /src/sql/wechatpay.sql
 /src/main/resources/application.properties
-/src/main/java/com/da/wechatpay/server/impl/VideoOrderServiceImpl.java
